@@ -1,6 +1,6 @@
 # Hello there 👋. I'm Kausik N
 
-* __Computer Engineering Undergrad @ [IIITDM Kancheepuram](http://iiitdm.ac.in/).__
+* __Computer Engineering Undergrad (4th Year) @ [IIITDM Kancheepuram](http://iiitdm.ac.in/).__
 * __Pursuing and Learning Tech in Deep Learning and Augemented Reality__.
 
 
