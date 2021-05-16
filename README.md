@@ -5,7 +5,7 @@
 
 
 ### You can contact me through the following links:
-* <a href="mailto:coe17b010@iiitdm.ac.in"><img src="https://image.flaticon.com/icons/svg/725/725643.svg" height="35" width="35" /></a>
+* <a href="mailto:nkausik1999@gmail.com"><img src="https://image.flaticon.com/icons/svg/725/725643.svg" height="35" width="35" /></a>
 * <a href="https://www.linkedin.com/in/kausik-n-7a9800170/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" height="30" width="35" /></a>
 
 
