@@ -1,6 +1,6 @@
 # Hello there 👋. I'm Kausik N
 
-* __Computer Engineering Undergrad (4th Year) @ [IIITDM Kancheepuram](http://iiitdm.ac.in/).__
+* __Computer Science MTech (4th Year) @ [IIT Madras](https://www.iitm.ac.in/).__
 * __Pursuing and Learning Tech in Deep Learning and Augemented Reality__.
 
 
