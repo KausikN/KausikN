@@ -12,8 +12,8 @@
 
 <p><img src="https://komarev.com/ghpvc/?username=kausikn" alt="KausikN" /></p>
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=kausikn&show_icons=true&count_private=true&theme=tokyonight)](https://github.com/kausikn)
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=kausikn&show_icons=true&count_private=true)](https://github.com/kausikn)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kausikn&theme=tokyonight&langs_count=10&layout=compact)](https://github.com/kausikn)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kausikn&langs_count=10&layout=compact)](https://github.com/kausikn)
 
-[![My Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=KausikN&layout=compact)](https://github.com/kausikn)
+[![My Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=KausikN)](https://github.com/kausikn)
