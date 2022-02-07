@@ -5,8 +5,8 @@
 
 
 # 🗣️ Contact Me
-<a href="mailto:nkausik1999@gmail.com"><img src="https://image.flaticon.com/icons/svg/725/725643.svg" height="35" width="35" /></a>
-<a href="https://www.linkedin.com/in/kausik-n-7a9800170/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" height="30" width="35" /></a>
+<a href="mailto:nkausik1999@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/kausik-n-7a9800170/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 # 📈 My Stats
 
