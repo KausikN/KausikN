@@ -1,7 +1,7 @@
 # Hello there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Kausik N
 
-* __Computer Science MTech (1st Year) @ [IIT Madras](https://www.iitm.ac.in/).__
-* __Pursuing and Learning Tech in Deep Learning and Augemented Reality__.
+* __Computer Science MTech (2nd Year) @ [IIT Madras](https://www.iitm.ac.in/).__
+* __Pursuing and Learning Tech in Deep Learning and Image Processing__.
 
 
 # 🗣️ Contact Me
