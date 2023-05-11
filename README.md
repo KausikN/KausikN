@@ -16,6 +16,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kausikn&langs_count=10&layout=compact)](https://github.com/kausikn)
 
-[![My Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=KausikN)](https://github.com/kausikn)
+<!-- [![My Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=KausikN)](https://github.com/kausikn) -->
 
 [![Streak](https://github-readme-streak-stats.herokuapp.com/?user=kausikn&)](https://github.com/kausikn)
