@@ -1,7 +1,7 @@
-# Hello there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Kausik N
+# Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Kausik N
 
-* __Computer Science MTech (2nd Year) @ [IIT Madras](https://www.iitm.ac.in/).__
-* __Pursuing and Learning Tech in Deep Learning and AI__.
+* __Working as Cloud SW Engineer @ [Enphase Energy](https://enphase.com/).__
+* __Pursuing and Learning Tech in AI and CS__.
 
 
 # 🗣️ Contact Me
